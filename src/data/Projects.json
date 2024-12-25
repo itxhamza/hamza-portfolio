@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "slug": "nft-watcher",
+    "image": "01.jpg",
+    "smImg": "sm-01.jpg",
+    "category": "Web Development",
+    "title": "NFT Watcher",
+    "link": "https://nftwatcher.net",
+    "publishedDate": "2020",
+    "description": "Globally morph real-time e-business with optimal users. Dramatically extend high-payoff infomediaries through integrated experiences."
+  },
+  {
+    "id": 2,
+    "slug": "kwot-creator",
+    "image": "02.jpg",
+    "smImg": "sm-02.jpg",
+    "category": "Web & Mobile Development",
+    "title": "Kwot Creator",
+    "link": "https://creator.kwot.com",
+    "publishedDate": "2023",
+    "description": "Globally morph real-time e-business with optimal users. Dramatically extend high-payoff infomediaries through integrated experiences."
+  },
+  {
+    "id": 3,
+    "slug": "bizly",
+    "image": "03.jpg",
+    "smImg": "sm-03.jpg",
+    "category": "Mobile Development",
+    "title": "Bizly",
+    "link": "https://apps.apple.com/us/app/bizly-creative-network-jobs/id6443831329",
+    "publishedDate": "2023",
+    "description": "Globally morph real-time e-business with optimal users. Dramatically extend high-payoff infomediaries through integrated experiences."
+  },
+  {
+    "id": 4,
+    "slug": "spiritual-dating",
+    "image": "04.jpg",
+    "smImg": "sm-04.jpg",
+    "category": "Mobile Development",
+    "title": "Presence - Spiritual Dating",
+    "link": "https://www.spiritualdatingapp.com/",
+    "publishedDate": "2023",
+    "description": "Globally morph real-time e-business with optimal users. Dramatically extend high-payoff infomediaries through integrated experiences."
+  },
+
+  {
+    "id": 6,
+    "slug": "hisnul-muslim",
+    "image": "06.jpg",
+    "smImg": "sm-06.jpg",
+    "category": "Mobile Development",
+    "title": "Hisnul Muslim Plus",
+    "link": "https://apps.apple.com/us/app/hisnul-muslim-plus/id1585750523",
+    "publishedDate": "2023",
+    "description": "Discover daily blessings with Hisnul Muslim Plus – an essential app for heartfelt Du'as from the Qur'an and Sunnah. Strengthen your spiritual journey and find solace in divine guidance."
+  },
+  {
+    "id": 5,
+    "slug": "easy-hvac",
+    "image": "05.jpg",
+    "smImg": "sm-05.jpg",
+    "category": "Mobile Development",
+    "title": "Easy HVAC",
+    "publishedDate": "2023",
+    "description": "Easy HVAC streamlines HVAC service requests for both residential and commercial clients. Users simply report their HVAC concerns, and our skilled contractors promptly assign proficient technicians to resolve the issues, ensuring a hassle-free and efficient solution."
+  },
+
+  {
+    "id": 7,
+    "slug": "edufeel",
+    "image": "07.png",
+    "smImg": "sm-01.jpg",
+    "category": "Web & Mobile Development",
+    "title": "Edufeel",
+    "link": "https://edufeel.co.uk",
+    "publishedDate": "2022",
+    "description": "Edu Feel is dedicated to the early years education sector. This platform is committed to preventing and intervening early in mental health issues among educators. By increasing mental health literacy and erasing the stigma, the app ensure a healthier future for those who shape our children's lives."
+  },
+  {
+    "id": 7,
+    "slug": "Cryptegridy",
+    "image": "08.jpg",
+    "smImg": "sm-01.jpg",
+    "category": "Web Development",
+    "title": "Cryptegridy",
+    "publishedDate": "2021",
+    "description": "Edu Feel is dedicated to the early years education sector. This platform is committed to preventing and intervening early in mental health issues among educators. By increasing mental health literacy and erasing the stigma, the app ensure a healthier future for those who shape our children's lives."
+  }
+]
